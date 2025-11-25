@@ -1,0 +1,5 @@
+{
+  "name": "Komputer Shop Inventory & AI Studio",
+  "description": "Un sistema moderno de gestión de inventario para Komputer Shop con edición de imágenes impulsada por IA usando Gemini 2.5 Flash Image.",
+  "requestFramePermissions": []
+}
